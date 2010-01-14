@@ -4,8 +4,6 @@ module Haml::Filters::Coffee
   lazy_require 'coffee', 'bistro_car'
 
   def render(text)
-    coffee_script do
-      text
-    end
+    CoffeeScript.compile(text)
   end
 end
