@@ -34,7 +34,7 @@ will render:
   
 == Also:
 
-Take a look at {BistroCar}[http://github.com/jnicklas/bistro_car] - more global solution for your Rails application.
+Take a look at {BistroCar}[http://github.com/jnicklas/bistro_car] - global solution for serving CoffeeScript inside your Rails application.
   
 == License:
 
