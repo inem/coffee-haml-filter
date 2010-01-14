@@ -19,7 +19,7 @@ Add it as a gem dependency to you Rails application:
     window.cl: s =>
       if typeof(console) != 'undefined' then console.log(s) else s
       
-  will render:
+will render:
   
   <script type='text/javascript'>
     //<![CDATA[
