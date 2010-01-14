@@ -37,7 +37,7 @@ will render:
 
 (The MIT License)
 
-Copyright (c) 2010 Jonas Nicklas
+Copyright (c) 2050 Ivan Nemytchenko
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
