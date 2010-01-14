@@ -32,6 +32,9 @@ will render:
   </script>
   
   
+== Also:
+
+  Take a look at {BistroCar}[http://github.com/jnicklas/bistro_car] - more global solution for your Rails application.
   
 == License:
 
