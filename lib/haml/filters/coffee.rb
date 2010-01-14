@@ -12,14 +12,4 @@ module Haml::Filters::Coffee
 </script>
 END
   end
-
-  #   def render(text)
-  #             <<END
-  # <script type=#{options[:attr_wrapper]}text/javascript#{options[:attr_wrapper]}>
-  #   //<![CDATA[
-  #     #{CoffeeScript.compile(text)}
-  #   //]]>
-  # </script>
-  #     END    
-  #   end
 end
